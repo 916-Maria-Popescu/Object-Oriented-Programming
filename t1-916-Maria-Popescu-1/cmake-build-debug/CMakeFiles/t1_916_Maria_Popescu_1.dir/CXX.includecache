@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../Domain/Gene.h
+string
+-
+
+../Repository/Repository.h
+vector
+-
+Gene.h
+-
+
+C:/Users/Maria/Desktop/t1-916-Maria-Popescu-1/Service/Service.cpp
+Service.h
+C:/Users/Maria/Desktop/t1-916-Maria-Popescu-1/Service/Service.h
+
+C:/Users/Maria/Desktop/t1-916-Maria-Popescu-1/Service/Service.h
+Repository.h
+-
+
