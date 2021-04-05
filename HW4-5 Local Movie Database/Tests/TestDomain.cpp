@@ -1,6 +1,6 @@
 
 #include <cassert>
-#include "C:\Users\Maria\Desktop\a45-916-Maria-Popescu\Domain\DynamicArray.h"
+#include "..\Domain\DynamicArray.h"
 #include "TestDomain.h"
 #include "../Domain/Movie.h"
 

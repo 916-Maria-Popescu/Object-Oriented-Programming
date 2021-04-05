@@ -1,7 +1,7 @@
 #ifndef REPOSITORYMOVIES_H
 #define REPOSITORYMOVIES_H
 #include <vector>
-#include "C:\Users\Maria\Desktop\a45-916-Maria-Popescu\Domain\DynamicArray.h"
+#include "..\Domain\DynamicArray.h"
 #include "../Domain/Movie.h"
 
 class Repository{
