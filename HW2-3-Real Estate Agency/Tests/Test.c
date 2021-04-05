@@ -1,11 +1,11 @@
 #include "Test.h"
-#include "C:\Users\Maria\Desktop\a23-916-Maria-Popescu\Domain\Estate.h"
-#include "C:\Users\Maria\Desktop\a23-916-Maria-Popescu\Domain\DynamicArray.h"
-#include "C:\Users\Maria\Desktop\a23-916-Maria-Popescu\Repository\EstateRepo.h"
-#include "C:\Users\Maria\Desktop\a23-916-Maria-Popescu\Service\EstateService.h"
+#include "..\Domain\Estate.h"
+#include "..\Domain\DynamicArray.h"
+#include "..\Repository\EstateRepo.h"
+#include "..\Service\EstateService.h"
 #include <assert.h>
 #include <string.h>
-#include <corecrt_malloc.h>
+#include <accctrl.h>
 
 //----------------------------------------------------------------------------------------------------------------------
 //-------------------------------------------------------------------------------------DOMAIN---------------------------

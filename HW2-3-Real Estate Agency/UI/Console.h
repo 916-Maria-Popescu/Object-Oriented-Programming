@@ -1,6 +1,6 @@
 #ifndef CONSOLE_H
 #define CONSOLE_H
-#include "C:\Users\Maria\Desktop\a23-916-Maria-Popescu\Service\EstateService.h"
+#include "..\Service\EstateService.h"
 
 /* The header for Console. It calls Service and it is called by the main function
  * */
